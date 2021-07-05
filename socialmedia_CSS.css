@@ -1,0 +1,33 @@
+.box{
+    background-color: #eee;
+    padding: 60px 0px;
+}
+
+.box-plot{
+    background-color: white;
+    padding: 60px 10px;
+    margin: 30px 0px;
+    
+}
+
+.fa{
+    color: rgba(0, 47, 255, 0.699);
+}
+
+.title{
+    margin: 20px 0px;
+}
+
+.text{
+    margin: 20px 0px;
+}
+
+a{
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0, 47, 255, 0.699);
+}
+
+.li{
+    margin: 20px 0px;
+}
+
